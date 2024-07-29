@@ -87,26 +87,36 @@ The following test conditions were found:
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed [here](https://itfclasses.atlassian.net/projects/AD?selectedItem=com.thed.zephyr.je__test-cases)
 
 
-1.5 Test Implementation
-The following elements are needed to be ready before the test execution phase begins:
-Test environment is completed and working
-Smoke testing passed
-Permissions given
-Thorough understanding of the application flow
-Test automation scripts must be ready, if it is necessary
-1.6. Test Execution
+## 1.5 Test Implementation
+- The following elements are needed to be ready before the test execution phase begins:
+- Test environment is completed and working
+- Smoke testing passed
+- Permissions given
+- Thorough understanding of the application flow
+- Test automation scripts must be ready, if it is necessary
+
+## 1.6. Test Execution
 Test cases are executed on the created test Cycle summary: 
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: 
-The following is a summary of the bugs that have been found 
+![image](https://github.com/user-attachments/assets/237b0724-2724-4e93-a7da-65c5ba178d5a)
+
+Bugs have been created based on the failed tests. The complete bug reports can be found below: 
+
+![image](https://github.com/user-attachments/assets/aa07ae55-0fba-45df-8d3e-b0def7b67659)
+
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
-1.7 Test Completion 
+## 1.7 Test Completion 
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 The traceability matrix was generated and can be found here: 
 
+![image](https://github.com/user-attachments/assets/b3aafe93-99eb-4701-a127-148e9b62fbb5)
+
+![image](https://github.com/user-attachments/assets/518434ac-9121-4af1-9091-495d5503ea4a)
 
 Test execution chart was generated and can be found below.
+
+![image](https://github.com/user-attachments/assets/18a654ba-641f-47a2-971a-492107fd1a10)
 
 The final report shows that a number of 4 tests have failed of a total of 31
 A number of 7 total bugs were found, from which the priority is: 1 are high, 2 are medium and 4 low.
